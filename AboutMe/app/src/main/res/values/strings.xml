@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+      Mi nombre es Luis Vilchez, tengo 23 años y estudio Ingeniería de Software.\n\nEstoy muy interesado en el desarrollo de software y siempre busco aprender nuevas tecnologías para mejorar mis habilidades.\n\nMe apasiona la programación y la resolución de problemas, y me gustaría trabajar en proyectos que me desafíen y me permitan crecer profesionalmente.\n\nAdemás, disfruto de trabajar en equipo y aprender de la experiencia de los demás.\n\n"
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
